@@ -1,0 +1,7 @@
+source(file.path("code", "00_setup.R"))
+source(file.path("code", "01_scenario1_main_results.R"))
+source(file.path("code", "02_scenario2_main_results.R"))
+source(file.path("code", "03_monthly_analytical_estimand.R"))
+source(file.path("code", "04_formula_based_correction.R"))
+source(file.path("code", "05_validation_agreement_metrics.R"))
+source(file.path("code", "06_sensitivity_analyses.R"))
